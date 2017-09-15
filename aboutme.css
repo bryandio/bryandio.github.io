@@ -1,0 +1,65 @@
+body {
+    background-color: Peru;
+}
+
+.topic {
+    font-size: 23px;
+    color: rgb(200,250,0);
+    text-decoration: underline;
+}
+
+.header {
+    margin: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 0%;
+    border-width: 15px;
+    background-color: Chocolate;
+    padding: 0 30 30 30;
+    border-radius: 50%;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.c1908 {
+    
+    width: 100px;
+}
+
+.steven {
+    width: 40px;
+
+}
+
+
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: gold;
+}
+
+
+.information {
+    
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    color: Blue;
+}
+
+.list {
+    padding: 0;
+    margin: 0;
+    font-size: 23px;
+    color: #800000;
+    font-family: Cursive;
+    text-decoration: none;
+}
+
+
